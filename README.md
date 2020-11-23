@@ -23,7 +23,7 @@
 
 ### Tábuas:
 <br>
-<img width=380 src="assets/tabua1.png"> </a>
+<img width=380 src="assets/Tabua1.png"> </a>
 <br>
 <br>
 
